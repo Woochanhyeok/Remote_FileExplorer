@@ -1,0 +1,14 @@
+C:\Users\dncks\source\repos\HW2\HW2_Client\bin\Debug\HW2_Client.exe.config
+C:\Users\dncks\source\repos\HW2\HW2_Client\bin\Debug\HW2_Client.exe
+C:\Users\dncks\source\repos\HW2\HW2_Client\bin\Debug\HW2_Client.pdb
+C:\Users\dncks\source\repos\HW2\HW2_Client\bin\Debug\ClassLibrary3.dll
+C:\Users\dncks\source\repos\HW2\HW2_Client\bin\Debug\ClassLibrary3.pdb
+C:\Users\dncks\source\repos\HW2\HW2_Client\obj\Debug\HW2_Client.ClientForm1.resources
+C:\Users\dncks\source\repos\HW2\HW2_Client\obj\Debug\HW2_Client.ClientForm2.resources
+C:\Users\dncks\source\repos\HW2\HW2_Client\obj\Debug\HW2_Client.Properties.Resources.resources
+C:\Users\dncks\source\repos\HW2\HW2_Client\obj\Debug\HW2_Client.csproj.GenerateResource.cache
+C:\Users\dncks\source\repos\HW2\HW2_Client\obj\Debug\HW2_Client.csproj.CoreCompileInputs.cache
+C:\Users\dncks\source\repos\HW2\HW2_Client\obj\Debug\HW2_Client.csproj.CopyComplete
+C:\Users\dncks\source\repos\HW2\HW2_Client\obj\Debug\HW2_Client.exe
+C:\Users\dncks\source\repos\HW2\HW2_Client\obj\Debug\HW2_Client.pdb
+C:\Users\dncks\source\repos\HW2\HW2_Client\obj\Debug\HW2_Client.csprojAssemblyReference.cache

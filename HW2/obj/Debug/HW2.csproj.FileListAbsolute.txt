@@ -1,0 +1,15 @@
+C:\Users\dncks\source\repos\HW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\dncks\source\repos\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\dncks\source\repos\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.ServerForm.resources
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.pdb
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.ClientForm1.resources
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.ClientForm2.resources
+C:\Users\dncks\source\repos\HW2\HW2\bin\Debug\ClassLibrary1.dll
+C:\Users\dncks\source\repos\HW2\HW2\bin\Debug\ClassLibrary1.pdb
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.csproj.CopyComplete

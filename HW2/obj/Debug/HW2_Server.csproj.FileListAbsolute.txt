@@ -1,0 +1,13 @@
+C:\Users\dncks\source\repos\HW2\HW2\bin\Debug\HW2.exe
+C:\Users\dncks\source\repos\HW2\HW2\bin\Debug\ClassLibrary3.dll
+C:\Users\dncks\source\repos\HW2\HW2\bin\Debug\ClassLibrary3.pdb
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2_Server.csprojAssemblyReference.cache
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.ServerForm.resources
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2_Server.csproj.GenerateResource.cache
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2_Server.csproj.CoreCompileInputs.cache
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.exe
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2.pdb
+C:\Users\dncks\source\repos\HW2\HW2\bin\Debug\HW2.exe.config
+C:\Users\dncks\source\repos\HW2\HW2\bin\Debug\HW2.pdb
+C:\Users\dncks\source\repos\HW2\HW2\obj\Debug\HW2_Server.csproj.CopyComplete
